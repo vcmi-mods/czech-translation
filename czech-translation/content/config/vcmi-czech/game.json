@@ -1232,7 +1232,7 @@
 	"core.advevent.129" : "{Kaple čarovné myšlenky}\n\nPřišel jsi k malé kapli, kde se modlí skupinka vyšších kněží. Jako odměnu za tvoji ochranu ti nabídli, že tě naučí složitější kouzlo - ",
 	"core.advevent.13" : "Svým odmítnutím jsi skřítka urazil a už si tě dál nevšímá.",
 	"core.advevent.130" : "Tvé schopnosti na pochopení tohoto kouzla bohužel nestačí, takže ses ho nenaučil a nebudeš ho moci používat.",
-	"core.advevent.131" : "Bohužel, nemáš knihu kouzel, aby sis mohl toto kouzlo zapsat.",
+	"core.advevent.131" : " Bohužel, nemáš knihu kouzel, aby sis mohl toto kouzlo zapsat.",
 	"core.advevent.132" : "Tajemná píseň sirén se rozléhá po okolních útesech. Mnozí tví bojovníci podlehli kouzlu této písně a skočili do temných hlubin oceánu. Poučil ses z této nepříjemné události a získal jsi %d zkušeností.",
 	"core.advevent.133" : "Zacpal jsi své posádce uši voskem, takže sirény nemají šanci je svou tajemnou písní zlákat do vodních hlubin.",
 	"core.advevent.134" : "Když sirény zazpívaly svou tajemnou píseň, tvá malá odhodlaná armáda jejich svodům odolala a neskočila do moře.",
@@ -5577,7 +5577,7 @@
 	"hero.core.luna.specialty.description" : "Škody způsobené ohnivou zdi se zdvojnásobují.",
 	"hero.core.luna.specialty.name" : "Ohnivá zeď",
 	"hero.core.luna.specialty.tooltip" : "Kouzlo bonus: Ohnivá zeď",
-	"hero.core.malcom.biography" : "Malcom je jedním z mála trpaslíků, kteří mají přirozenou schopnost pro magii. Často se může naučit nová kouzla pouze sledováním někoho jiného, kdo zrovna nějaké zaklínadlo sesílá. Byl násilně odveden do armády bránit AvLee proti ďáblům z Eefolu.",
+	"hero.core.malcom.biography" : "Malcom je jedním z mála trpaslíků, kteří mají přirozenou schopnost pro magii. Často se může naučit nová kouzla pouze sledováním někoho jiného, kdo zrovna nějaké zaklínadlo sesílá. Byl násilně odveden do armády bránit AvLee proti ďáblům z Eeofolu.", //was
 	"hero.core.malcom.name" : "Malcom",
 	"hero.core.malcom.specialty.description" : "Obdrží bonus 5% za každou úroveň ke schopnosti orlí oko.",
 	"hero.core.malcom.specialty.name" : "Orlí oko",
