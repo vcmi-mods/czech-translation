@@ -16,6 +16,10 @@
 		"1.0.1" : [ "png images" ],
 		"1.0.0" : [ "Initial release based on https://prekladyher.eu/preklady/heroes-of-might-magic-iii-complete.347/" ]
 	},
+	"german" : {
+		"name" : "Tschechische Übersetzung",
+		"description" : "Tschechische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+	},
 	"czech" : {
 		"name" : "Český překlad",
 		"description" : "Český překlad hry Heroes of Might and Magic III: Complete Edition"	
