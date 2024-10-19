@@ -12,7 +12,7 @@
 	},
 	"changelog" : 
 	{ 
-		"1.0.2" : [ "Updated with all exportable strings from original distribution using v1.5.7" ],
+		"1.0.2" : [ "Updated with all exportable strings from original distribution using v1.5.7 + small trnaslation fixes and improvements" ],
 		"1.0.1" : [ "png images" ],
 		"1.0.0" : [ "Initial release based on https://prekladyher.eu/preklady/heroes-of-might-magic-iii-complete.347/" ]
 	},
