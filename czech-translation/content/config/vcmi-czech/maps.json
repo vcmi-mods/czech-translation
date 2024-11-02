@@ -2144,6 +2144,7 @@
 	"map.pandora's box.heroes.20.biography" : "Hermes je řecký bůh poslů. Byl zajat, když se pokoušel doručit poselství, že podsvětí bylo napadeno. Teď čeká, až ho někdo vysvobodí nebo zničí ty ohavné démony.",
 	"map.pandora's box.heroes.20.name" : "Hermes",
 	"map.pandora's box.heroes.21.biography" : "Achates byl společníkem Aenease při jeho putování a pozdějším letu z Tróje. Je vzorem věrného přítele a společníka. Poté, co se s Aeneasem rozešel, cestoval po Řecku a hledal smysl života.",
+	"map.pandora's box.heroes.21.name" : "Achates",
 	"map.pandora's box.heroes.23.biography" : "Aeneas je synem Anchisese a Aphrodite. Byl účastníkem trojské války a vedl ty, co válku přežili, do Itálie. Tam jim pomohl začít nový život. Po skončení tohoto úkolu se jen nedávno vrátil do rodného Řecka.",
 	"map.pandora's box.heroes.23.name" : "Aeneas",
 	"map.pandora's box.heroes.24.biography" : "Amphion je synem Dia a Antiope. Učil se u Hermese a rychle zvládl hudební umění. Na lyru hraje tak znamenitě, že byl svou hudbou schopen pohnout kameny a postavit tak zdi Théb. Při cestě domů na svatbu s Niobe byl přepaden někým, kdo si myslel, že ne umělec, ale nástroj má v sobě tu velkou moc.",
@@ -2893,6 +2894,15 @@
 	"map.treasure hunt.event.1.description" : "Trochu ses obával, že by při plavbě mohlo dojít k nějakým nepříjemnostem, ale cesta proběhla v klidu. Když zabodáváš vlajku svého otce do země před sebou, spokojeně se usmíváš a díváš se na ospalý klid na ostrově. Jsi přesvědčený, že do týdne máš svoji práci hotovou.",
 	"map.treasure hunt.header.description" : "Zkouška, která má dokázat, zda jsi hoden být králem, bude snadná. Ve jménu svého otce obsaď všechny doly v této zemi a staneš se velkým vůdcem království. Potom ti otec bude moci v klidu odevzdat královské žezlo.",
 	"map.treasure hunt.header.name" : "Honba za pokladem",
+	"map.tutorial.event.0.description" : "Vítej, hrdino.\nNa této mapě by ses měl naučit nejzákladnější prvky hry {Heroes {of {Might {and {Magic {3}. Budu ti dávat rady, jak máš postupovat, abys tento scénář vyhrál. Pozorně čti všechny instrukce a postupuj podle nich.\n\nTeď klikni na tlačítko dole a přečti si, co máš udělat nejdřív.",
+	"map.tutorial.event.1.description" : "Abys pohnul jezdcem, který představuje tvého hrdinu, na nějaké místo na mapě dobrodružství, musíš kliknout myší na místo, kam chceš jet. Pokud je kurzor zobrazený jako cválající kůň, můžeš tam jít. Pokud je kurzor jako vzpínající se kůň, můžeš navštívit nějaký objekt nebo vzít nějaký předmět.",
+	"map.tutorial.guards.10.4.0.message" : "Páni, tohle místo vypadá strašidelně, a to z dobrého důvodu - je to Prokletá země. Kdykoli budete bojovat v bitvě na Prokleté půdě, vy i váš protivník ztratíte všechny aktuálně platné bonusy za štěstí a morálku. Rozhodně nechceme, aby se nám to stalo teď, takže se vydejme po cestě na východ směrem k vodopádu.",
+	"map.tutorial.guards.24.17.1.message" : "Uh oh, jak se blížíte, všimnete si několika gnolů, kteří hlídají tento předmět. Přeješ si s nimi bojovat? (Nápověda: řekněte ano, tento boj byste měli snadno vyhrát)",
+	"map.tutorial.guards.8.33.0.message" : "Nad vámi se tyčí obávané pekelné město. Přítomnost citadely znamená, že město má alespoň základní obranu, takže je dobře, že ses zastavil v té továrně na válečné stroje. Každopádně, abyste s tímto bojem neměli žádné potíže, souhlasilo několik archandělů, že vám pomohou. Hodně štěstí!"
+	"map.tutorial.header.description" : "Tato mapa je výborným místem pro začátečníky, aby se naučili, jak na to, a pro zkušené hráče, aby se podívali na některé novinky.",
+	"map.tutorial.header.name" : "Tutorial",
+	"map.tutorial.sign.23.19.1.message" : "Zprávy mohou být umístěny také na cedulích. Před vámi jsou další čtyři typy dolů. Označte je všechny a pak pokračujte na jihozápad.",
+	"map.tutorial.town.5.5.0.name" : "Castellatus",
 	"map.twins.event.0.description" : "Bylo vydáno prohlášení. Královský syn si vybral svoji nastávající manželku. Všechno se připravuje na velký den. Nastávající událost jistě vstoupí do historie. Všichni lidé v zemi žijí v radostném očekávání. Vlastně, skoro všichni.",
 	"map.twins.guards.1.24.0.message" : "Přepadení! Vlčím nájezdníkům se nelíbí, že jsi vstoupil na místo, které jim patří.",
 	"map.twins.guards.10.27.0.message" : "Jeden z tvých hlídačů ti oznámil, že nějaký dřevorubec kácí stromy na tvém území. Tvé jednotky na něho zaútočily. Ten radši nechal ležet všechny svoje věci a vzal nohy na ramena.",
@@ -3245,4 +3255,3 @@
 	"map.xathras prize.town.7.105.1.name" : "Xathras",
 	"map.xathras prize.town.88.25.1.name" : "Sarhtax"
 }
-
