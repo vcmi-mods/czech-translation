@@ -2213,7 +2213,7 @@
 	"core.genrltxt.535" : "Chyba v souboru videa!",
 	"core.genrltxt.536" : "%s blokuje %s, aby nemohl seslat kouzlo 3. a vyššího stupně.",
 	"core.genrltxt.537" : "Vítr z okolní prokleté země zeslabuje tvoji magickou sílu. Zde můžeš kouzlit pouze kouzla 1. stupně.",
-	"core.genrltxt.538" : "Protože hrdina %s už vyvolal %s, žádné jiné typy elementálů %s vyvolat.",
+	"core.genrltxt.538" : "Protože hrdina %s už vyvolal %s, nelze použít další přivolávací kouzlo.",
 	"core.genrltxt.539" : "nelze",
 	"core.genrltxt.54" : "{Mapa světa}\n\nNa tomto místě je pohled na celou mapu světa. Kliknutím na mapu můžeš přepnout okno dobrodružství na vybranou oblast. Posouváním kurzoru můžeš posouvat vybranou oblast.",
 	"core.genrltxt.540" : "nelze",
