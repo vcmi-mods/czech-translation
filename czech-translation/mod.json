@@ -1,7 +1,7 @@
 {	
 	"name" : "Czech translation",
 	"description" : "Czech translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.8",
+	"version" : "1.0.9",
 	"author" : "",
 	"contact" : "https://github.com/vcmi-mods/czech-translation",
 	"modType" : "Translation",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.9" : [ "Fixed PNGs palette" ],
 		"1.0.8" : [ "Small fixes" ],
 		"1.0.7" : [ "Various quality fixes for campaigns texts" ],
 		"1.0.6" : [ "Minor color text fixes" ],
