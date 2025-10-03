@@ -2443,8 +2443,8 @@
 	"core.genrltxt.742" : "Soubor s výukovou mapou \"tutorial.tut\" není v adresáři s mapami. Bez tohoto souboru nelze výuku spustit.",
 	"core.genrltxt.743" : "Pro hraní této uložené hry je potřebné, aby všichni hráči měli spuštěno CD %s. Některý z připojených hráčů nemůže hrát tuto uloženou hru.",
 	"core.genrltxt.744" : "Pro hraní tohoto scénáře je potřebné, aby všichni hráči měli spuštěno CD %s. Některý z připojených hráčů nemůže hrát tento scénář.",
-	"core.genrltxt.745" : "Meč zkázy (AB)",
-	"core.genrltxt.746" : "Heroes III Complete",
+	"core.genrltxt.745" : "Meč zkázy",
+	"core.genrltxt.746" : "Stín smrti",
 	"core.genrltxt.747" : "Prokletá země odčerpává magickou energii ze všech kouzel, která jsou silnější než kouzla 1. stupně.",
 	"core.genrltxt.748" : "Náhodná mapa vytvořena!",
 	"core.genrltxt.749" : "Nelze vytvořit Random_Map.H3M v daném adresáři.",
@@ -2462,7 +2462,7 @@
 	"core.genrltxt.76" : "AUTOSAVE",
 	"core.genrltxt.760" : "Vytváří se mapa",
 	"core.genrltxt.761" : "Pouze Gelu může nést Meč zkázy.",
-	"core.genrltxt.762" : "Obnova Erathie (RoE)",
+	"core.genrltxt.762" : "Obnova Erathie",
 	"core.genrltxt.763" : "Gratulace! Znovu jsi získal všechny tři artefakty.",
 	"core.genrltxt.77" : "{Startovní hrdina}",
 	"core.genrltxt.78" : "{Specialita hrdiny}",
@@ -6502,3 +6502,4 @@
 	"terrain.core.swamp.name" : "Bažina",
 	"terrain.core.water.name" : "Voda"
 }
+
