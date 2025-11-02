@@ -1,7 +1,7 @@
 {	
 	"name" : "Czech translation",
-	"description" : "Czech translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.9",
+	"description" : "Czech translation of Heroes of Might and Magic III: Complete Edition and Heroes Chronicles",
+	"version" : "1.1.0",
 	"author" : "",
 	"contact" : "https://github.com/vcmi-mods/czech-translation",
 	"modType" : "Translation",
@@ -12,24 +12,25 @@
 	},
 	"changelog" : 
 	{ 
-		"1.0.9" : [ "Fixed PNGs palette" ],
-		"1.0.8" : [ "Small fixes" ],
-		"1.0.7" : [ "Various quality fixes for campaigns texts" ],
-		"1.0.6" : [ "Minor color text fixes" ],
-		"1.0.5" : [ "Minor fixes" ],
-		"1.0.4" : [ "Added missing campaing strings", "Added start/end video subtitles" ],
-		"1.0.3" : [ "Added missing GOG strings, added missing files, fixed fonts" ],
-		"1.0.2" : [ "Updated with all exportable strings from original distribution using v1.5.7 + small translation fixes and improvements" ],
-		"1.0.1" : [ "png images" ],
-		"1.0.0" : [ "Initial release based on https://prekladyher.eu/preklady/heroes-of-might-magic-iii-complete.347/" ]
+		"1.1.0" : [ "Opraveny názvy datadisků", "Oprava malých překlepů" ],
+		"1.0.9" : [ "Opravena paleta PNG obrázků" ],
+		"1.0.8" : [ "Menší opravy" ],
+		"1.0.7" : [ "Různé kvalitativní opravy textů kampaní" ],
+		"1.0.6" : [ "Drobné opravy v textech" ],
+		"1.0.5" : [ "Drobné opravy" ],
+		"1.0.4" : [ "Přidány chybějící texty kampaní", "Přidány titulky k úvodním a závěrečným videím" ],
+		"1.0.3" : [ "Přidány chybějící GOG texty", "Opraveny fonty" ],
+		"1.0.2" : [ "Aktualizováno podle všech exportovatelných textů z původní distribuce hry od CD Projektu", "Drobné opravy a vylepšení překladu" ],
+		"1.0.1" : [ "Převedeny BMP na PNG" ],
+		"1.0.0" : [ "První vydání založené na https://prekladyher.eu/preklady/heroes-of-might-magic-iii-complete.347/" ]
 	},
 	"german" : {
 		"name" : "Tschechische Übersetzung",
-		"description" : "Tschechische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Tschechische Übersetzung von Heroes of Might and Magic III: Complete Edition und Heroes Chronicles"	
 	},
 	"czech" : {
 		"name" : "Český překlad",
-		"description" : "Český překlad hry Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Český překlad hry Heroes of Might and Magic III: Complete Edition a Heroes Chronicles"	
 	},
 	"translations" : [
 		"config/vcmi-czech/game.json",
