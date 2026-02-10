@@ -1,0 +1,17 @@
+{	
+	"name" : "Dabing kampaní",
+	"description" : "Český dabing pro kampaně vygenerovaný pomocí ElevenLabs AI",
+	"version" : "1.0",
+	"author" : "George King",
+	"contact" : "https://discord.gg/chBT42V",
+	"modType" : "Language",
+	"language" : "czech",
+	"compatibility" :
+	{
+		"min" : "1.7.0"
+	},
+	"changelog" : 
+	{ 
+		"1.0" : [ "První verze dabingu pomocí ElevenLabs AI" ]
+	}
+}
