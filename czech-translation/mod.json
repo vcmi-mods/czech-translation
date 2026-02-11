@@ -1,7 +1,7 @@
 {	
 	"name" : "Czech translation",
 	"description" : "Czech translation of Heroes of Might and Magic III: Complete Edition and Heroes Chronicles",
-	"version" : "1.1.1",
+	"version" : "1.1.2",
 	"author" : "George King",
 	"contact" : "https://github.com/vcmi-mods/czech-translation",
 	"modType" : "Translation",
@@ -12,7 +12,8 @@
 	},
 	"changelog" : 
 	{ 
-		"1.1.1" : [ "Přidán volitelný český dabing pro kampaně vygenerovaný pomocí ElevenLabs AI" ],
+		"1.1.2" : [ "Přidán český dabing pro kampaně Heroes Chronicles vygenerovaný pomocí ElevenLabs AI" ],
+		"1.1.1" : [ "Přidán český dabing pro kampaně RoE, AB, SoD vygenerovaný pomocí ElevenLabs AI" ],
 		"1.1.0" : [ "Opraveny názvy datadisků", "Oprava malých překlepů" ],
 		"1.0.9" : [ "Opravena paleta PNG obrázků" ],
 		"1.0.8" : [ "Menší opravy" ],

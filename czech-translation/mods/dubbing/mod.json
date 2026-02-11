@@ -4,7 +4,7 @@
 	"version" : "1.0",
 	"author" : "George King",
 	"contact" : "https://discord.gg/chBT42V",
-	"modType" : "Language",
+	"modType" : "Compatibility",
 	"language" : "czech",
 	"compatibility" :
 	{
@@ -12,6 +12,6 @@
 	},
 	"changelog" : 
 	{ 
-		"1.0" : [ "První verze dabingu pomocí ElevenLabs AI" ]
+		"1.0" : [ "První verze dabingu vygenerovaná pomocí ElevenLabs AI" ]
 	}
 }
