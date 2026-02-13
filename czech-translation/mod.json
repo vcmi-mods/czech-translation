@@ -1,4 +1,4 @@
-{	
+{
 	"name" : "Czech translation",
 	"description" : "Czech translation of Heroes of Might and Magic III: Complete Edition and Heroes Chronicles",
 	"version" : "1.1.2",
@@ -6,33 +6,61 @@
 	"contact" : "https://github.com/vcmi-mods/czech-translation",
 	"modType" : "Translation",
 	"language" : "czech",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.7.0"
 	},
-	"changelog" : 
-	{ 
-		"1.1.2" : [ "Přidán český dabing pro kampaně Heroes Chronicles vygenerovaný pomocí ElevenLabs AI" ],
-		"1.1.1" : [ "Přidán český dabing pro kampaně RoE, AB, SoD vygenerovaný pomocí ElevenLabs AI" ],
-		"1.1.0" : [ "Opraveny názvy datadisků", "Oprava malých překlepů" ],
-		"1.0.9" : [ "Opravena paleta PNG obrázků" ],
-		"1.0.8" : [ "Menší opravy" ],
-		"1.0.7" : [ "Různé kvalitativní opravy textů kampaní" ],
-		"1.0.6" : [ "Drobné opravy v textech" ],
-		"1.0.5" : [ "Drobné opravy" ],
-		"1.0.4" : [ "Přidány chybějící texty kampaní", "Přidány titulky k úvodním a závěrečným videím" ],
-		"1.0.3" : [ "Přidány chybějící GOG texty", "Opraveny fonty" ],
-		"1.0.2" : [ "Aktualizováno podle všech exportovatelných textů z původní distribuce hry od CD Projektu", "Drobné opravy a vylepšení překladu" ],
-		"1.0.1" : [ "Převedeny BMP na PNG" ],
-		"1.0.0" : [ "První vydání založené na https://prekladyher.eu/preklady/heroes-of-might-magic-iii-complete.347/" ]
+	"changelog" : {
+		"1.1.2" : [
+			"Přidán český dabing pro kampaně Heroes Chronicles vygenerovaný pomocí ElevenLabs AI"
+		],
+		"1.1.1" : [
+			"Přidán český dabing pro kampaně RoE, AB, SoD vygenerovaný pomocí ElevenLabs AI"
+		],
+		"1.1.0" : [
+			"Opraveny názvy datadisků",
+			"Oprava malých překlepů"
+		],
+		"1.0.9" : [
+			"Opravena paleta PNG obrázků"
+		],
+		"1.0.8" : [
+			"Menší opravy"
+		],
+		"1.0.7" : [
+			"Různé kvalitativní opravy textů kampaní"
+		],
+		"1.0.6" : [
+			"Drobné opravy v textech"
+		],
+		"1.0.5" : [
+			"Drobné opravy"
+		],
+		"1.0.4" : [
+			"Přidány chybějící texty kampaní",
+			"Přidány titulky k úvodním a závěrečným videím"
+		],
+		"1.0.3" : [
+			"Přidány chybějící GOG texty",
+			"Opraveny fonty"
+		],
+		"1.0.2" : [
+			"Aktualizováno podle všech exportovatelných textů z původní distribuce hry od CD Projektu",
+			"Drobné opravy a vylepšení překladu"
+		],
+		"1.0.1" : [
+			"Převedeny BMP na PNG"
+		],
+		"1.0.0" : [
+			"První vydání založené na https://prekladyher.eu/preklady/heroes-of-might-magic-iii-complete.347/"
+		]
 	},
 	"german" : {
 		"name" : "Tschechische Übersetzung",
-		"description" : "Tschechische Übersetzung von Heroes of Might and Magic III: Complete Edition und Heroes Chronicles"	
+		"description" : "Tschechische Übersetzung von Heroes of Might and Magic III: Complete Edition und Heroes Chronicles"
 	},
 	"czech" : {
 		"name" : "Český překlad",
-		"description" : "Český překlad hry Heroes of Might and Magic III: Complete Edition a Heroes Chronicles"	
+		"description" : "Český překlad hry Heroes of Might and Magic III: Complete Edition a Heroes Chronicles"
 	},
 	"translations" : [
 		"config/vcmi-czech/game.json",

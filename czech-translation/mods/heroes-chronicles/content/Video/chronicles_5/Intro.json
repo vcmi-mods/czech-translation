@@ -1,42 +1,42 @@
 [
-    {
-        "timeStart": 1.16,
-        "timeEnd": 5.222,
-        "text": "Tarnumovo vítězství nad Vorrovými spojenci, nekromanty,"
-    },
-    {
-        "timeStart": 5.222,
-        "timeEnd": 8.582,
-        "text": "uchránilo Strom světa před zničením."
-    },
-    {
-        "timeStart": 8.582,
-        "timeEnd": 11.406,
-        "text": "Ale dokud byl Vorr stále tam venku,"
-    },
-    {
-        "timeStart": 11.406,
-        "timeEnd": 14.59,
-        "text": "Tarnumův úkol zdaleka nebyl dokončen."
-    },
-    {
-        "timeStart": 14.59,
-        "timeEnd": 16.694,
-        "text": "Co ho znepokojovalo nejvíce,"
-    },
-    {
-        "timeStart": 16.694,
-        "timeEnd": 18.45,
-        "text": "bylo mlčení Předků."
-    },
-    {
-        "timeStart": 19.47,
-        "timeEnd": 21.558,
-        "text": "Opustili ho snad?"
-    },
-    {
-        "timeStart": 21.558,
-        "timeEnd": 23.75,
-        "text": "Nebo za tím bylo něco mnohem horšího?"
-    }
+	{
+		"timeStart" : 1.16,
+		"timeEnd" : 5.222,
+		"text" : "Tarnumovo vítězství nad Vorrovými spojenci, nekromanty,"
+	},
+	{
+		"timeStart" : 5.222,
+		"timeEnd" : 8.582,
+		"text" : "uchránilo Strom světa před zničením."
+	},
+	{
+		"timeStart" : 8.582,
+		"timeEnd" : 11.406,
+		"text" : "Ale dokud byl Vorr stále tam venku,"
+	},
+	{
+		"timeStart" : 11.406,
+		"timeEnd" : 14.59,
+		"text" : "Tarnumův úkol zdaleka nebyl dokončen."
+	},
+	{
+		"timeStart" : 14.59,
+		"timeEnd" : 16.694,
+		"text" : "Co ho znepokojovalo nejvíce,"
+	},
+	{
+		"timeStart" : 16.694,
+		"timeEnd" : 18.45,
+		"text" : "bylo mlčení Předků."
+	},
+	{
+		"timeStart" : 19.47,
+		"timeEnd" : 21.558,
+		"text" : "Opustili ho snad?"
+	},
+	{
+		"timeStart" : 21.558,
+		"timeEnd" : 23.75,
+		"text" : "Nebo za tím bylo něco mnohem horšího?"
+	}
 ]

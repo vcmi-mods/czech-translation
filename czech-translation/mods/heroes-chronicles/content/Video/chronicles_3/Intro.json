@@ -1,42 +1,42 @@
 [
-    {
-        "timeStart": 0.32,
-        "timeEnd": 4.526,
-        "text": "Po skončení desetitisíciletého příměří, kterým byli"
-    },
-    {
-        "timeStart": 4.526,
-        "timeEnd": 7.998,
-        "text": "spoutáni Pánové elementů, vládnoucí vzduchu, zemi,"
-    },
-    {
-        "timeStart": 7.998,
-        "timeEnd": 11.942,
-        "text": "ohni a vodě, dělají nyní vše pro to,"
-    },
-    {
-        "timeStart": 11.942,
-        "timeEnd": 15.71,
-        "text": "aby svět definitivně zničili."
-    },
-    {
-        "timeStart": 15.71,
-        "timeEnd": 19.126,
-        "text": "Těmto ničivým silám může vzdorovat jen ten,"
-    },
-    {
-        "timeStart": 19.126,
-        "timeEnd": 21.77,
-        "text": "kdo ovládá umění magie."
-    },
-    {
-        "timeStart": 22.55,
-        "timeEnd": 25.702,
-        "text": "Proč tedy Předkové k naší záchraně"
-    },
-    {
-        "timeStart": 25.702,
-        "timeEnd": 29.75,
-        "text": "vybrali zrovna barbara, který magii nenávidí?"
-    }
+	{
+		"timeStart" : 0.32,
+		"timeEnd" : 4.526,
+		"text" : "Po skončení desetitisíciletého příměří, kterým byli"
+	},
+	{
+		"timeStart" : 4.526,
+		"timeEnd" : 7.998,
+		"text" : "spoutáni Pánové elementů, vládnoucí vzduchu, zemi,"
+	},
+	{
+		"timeStart" : 7.998,
+		"timeEnd" : 11.942,
+		"text" : "ohni a vodě, dělají nyní vše pro to,"
+	},
+	{
+		"timeStart" : 11.942,
+		"timeEnd" : 15.71,
+		"text" : "aby svět definitivně zničili."
+	},
+	{
+		"timeStart" : 15.71,
+		"timeEnd" : 19.126,
+		"text" : "Těmto ničivým silám může vzdorovat jen ten,"
+	},
+	{
+		"timeStart" : 19.126,
+		"timeEnd" : 21.77,
+		"text" : "kdo ovládá umění magie."
+	},
+	{
+		"timeStart" : 22.55,
+		"timeEnd" : 25.702,
+		"text" : "Proč tedy Předkové k naší záchraně"
+	},
+	{
+		"timeStart" : 25.702,
+		"timeEnd" : 29.75,
+		"text" : "vybrali zrovna barbara, který magii nenávidí?"
+	}
 ]
