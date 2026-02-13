@@ -1,27 +1,27 @@
 [
-    {
-        "timeStart": 4.76,
-        "timeEnd": 7.334,
-        "text": "Kdesi v temných tunelech pod zemí"
-    },
-    {
-        "timeStart": 7.334,
-        "timeEnd": 11.446,
-        "text": "se nacházel Strom světa, pramen života."
-    },
-    {
-        "timeStart": 11.446,
-        "timeEnd": 16.334,
-        "text": "Tarnum ho musel najít, dříve než ho šílený"
-    },
-    {
-        "timeStart": 16.334,
-        "timeEnd": 21.23,
-        "text": "Předek Vorr a jeho pohůnci, nekromanti, zničí."
-    },
-    {
-        "timeStart": 21.23,
-        "timeEnd": 23.89,
-        "text": "Ale jak může člověk zabít boha?"
-    }
+	{
+		"timeStart" : 4.76,
+		"timeEnd" : 7.334,
+		"text" : "Kdesi v temných tunelech pod zemí"
+	},
+	{
+		"timeStart" : 7.334,
+		"timeEnd" : 11.446,
+		"text" : "se nacházel Strom světa, pramen života."
+	},
+	{
+		"timeStart" : 11.446,
+		"timeEnd" : 16.334,
+		"text" : "Tarnum ho musel najít, dříve než ho šílený"
+	},
+	{
+		"timeStart" : 16.334,
+		"timeEnd" : 21.23,
+		"text" : "Předek Vorr a jeho pohůnci, nekromanti, zničí."
+	},
+	{
+		"timeStart" : 21.23,
+		"timeEnd" : 23.89,
+		"text" : "Ale jak může člověk zabít boha?"
+	}
 ]

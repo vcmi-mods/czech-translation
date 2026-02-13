@@ -1,4 +1,4 @@
-{	
+{
 	"name" : "Kroniky hrdinů (Heroes Chronicles)",
 	"description" : "Český překlad pro Kroniky hrdinů.",
 	"version" : "1.0",
@@ -6,16 +6,16 @@
 	"contact" : "",
 	"modType" : "Compatibility",
 	"language" : "czech",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.2.0"
 	},
 	"keepDisabled" : true,
-	"changelog" : 
-	{ 
-		"1.0" : [ "Initial release" ]
+	"changelog" : {
+		"1.0" : [
+			"Initial release"
+		]
 	},
-	"depends" : [ 
+	"depends" : [
 		"chronicles"
 	],
 	"translations" : [
