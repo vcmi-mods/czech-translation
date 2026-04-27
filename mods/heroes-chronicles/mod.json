@@ -1,15 +1,14 @@
 {
 	"name" : "Kroniky hrdinů (Heroes Chronicles)",
-	"description" : "Český překlad pro Kroniky hrdinů.",
+	"description" : "Český překlad pro Kroniky hrdinů - 20% zvalidováno, zbytek prozatím jen AI bez korekcí.",
 	"version" : "1.0",
 	"author" : "3DO",
 	"contact" : "",
-	"modType" : "Compatibility",
+	"modType" : "Language",
 	"language" : "czech",
 	"compatibility" : {
 		"min" : "1.2.0"
 	},
-	"keepDisabled" : true,
 	"changelog" : {
 		"1.0" : [
 			"Initial release"

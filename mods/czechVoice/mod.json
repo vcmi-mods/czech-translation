@@ -1,0 +1,17 @@
+{
+	"name" : "Dabing kampaní",
+	"description" : "Český dabing pro kampaně RoE, AB, SoD vygenerovaný pomocí ElevenLabs AI",
+	"version" : "1.0",
+	"author" : "3DO",
+	"contact" : "",
+	"modType" : "Language",
+	"language" : "czech",
+	"compatibility" : {
+		"min" : "1.2.0"
+	},
+	"changelog" : {
+		"1.0" : [
+			"Initial release"
+		]
+	}
+}
