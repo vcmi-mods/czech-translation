@@ -4,11 +4,18 @@
 	"version" : "1.0",
 	"author" : "3DO",
 	"contact" : "",
-	"modType" : "Language",
+	"modType" : "Translation",
 	"language" : "czech",
 	"compatibility" : {
 		"min" : "1.2.0"
 	},
+	"depends" : [
+		"chronicles"
+	],
+	"softDepends" : [
+		"chronicles.chronicles_5",
+		"chronicles.chronicles_6"
+	],
 	"changelog" : {
 		"1.0" : [
 			"Initial release"

@@ -4,7 +4,7 @@
 	"version" : "1.0",
 	"author" : "3DO",
 	"contact" : "",
-	"modType" : "Language",
+	"modType" : "Translation",
 	"language" : "czech",
 	"compatibility" : {
 		"min" : "1.2.0"
