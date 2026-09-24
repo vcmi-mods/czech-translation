@@ -74,6 +74,7 @@
 	"translations" : [
 		"config/vcmi-czech/game.json",
 		"config/vcmi-czech/maps.json",
-		"config/vcmi-czech/campaigns.json"
+		"config/vcmi-czech/campaigns.json",
+		"config/vcmi-czech/chronicles.json"
 	]
 }
